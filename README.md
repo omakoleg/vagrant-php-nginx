@@ -1,6 +1,7 @@
 About
 =======
 Small vargant box (ubuntu precise64 based) with php-fpm , mysql, phpmyadmin and nginx
+Clone using 'git clone --recursive' to fetch all submodules
 
 Requirements
 ------
